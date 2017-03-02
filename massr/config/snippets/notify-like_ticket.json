@@ -1,0 +1,5 @@
+		"notify/like ticket": {
+			"label": "チケット持った！",
+			"delete": "owner",
+			"volatile": true
+		},
