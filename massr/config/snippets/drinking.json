@@ -1,0 +1,5 @@
+		"notify/like drinking": {
+			"label": "今夜は飲みに行けるよ",
+			"delete": "owner",
+			"volatile": true
+		}
