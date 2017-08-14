@@ -5,8 +5,8 @@
 			"delete": "owner",
 			"volatile": true
 		},
-		"notify/like ticket": {
-			"label": "チケット持った！",
+		"notify/like yesserendipity": {
+			"label": "Yes!Serendipity!",
 			"delete": "owner",
 			"volatile": true
 		},
