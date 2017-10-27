@@ -6,7 +6,7 @@
 			"volatile": true
 		},
 		"notify/like bonenkai2017": {
-			"message": "忘年会(20171123)行くよ!",
+			"label": "忘年会(20171123)行くよ!",
 			"delete": "owner",
 			"volatile": true
 		},
