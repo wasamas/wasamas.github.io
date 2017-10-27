@@ -5,8 +5,10 @@
 			"delete": "owner",
 			"volatile": true
 		},
-		"notify/information": {
-			"message": "忘年会は2017/11/23(木)になりました"
+		"notify/like bonenkai2017": {
+			"message": "忘年会(20171123)行くよ!",
+			"delete": "owner",
+			"volatile": true
 		},
 		"media/gyazo": {
 		},
