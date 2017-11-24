@@ -5,11 +5,6 @@
 			"delete": "owner",
 			"volatile": true
 		},
-		"notify/like bonenkai2017": {
-			"label": "忘年会(20171123)行くよ!",
-			"delete": "owner",
-			"volatile": true
-		},
 		"media/gyazo": {
 		},
 		"icon/rotate": {
