@@ -5,11 +5,6 @@
 			"delete": "owner",
 			"volatile": true
 		},
-		"notify/like ticket": {
-			"label": "チケット持った！",
-			"delete": "owner",
-			"volatile": true
-		},
 		"media/gyazo": {
 		},
 		"icon/rotate": {
