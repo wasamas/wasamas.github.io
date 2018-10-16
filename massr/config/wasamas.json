@@ -5,6 +5,9 @@
 			"delete": "owner",
 			"volatile": true
 		},
+		"notify/information": {
+			"message": "<a href='http://chosuke.rumix.jp/main.aspx?g=34f5c2faac3416e186' target='_blank'>忘年会日程調整</a>(10/17迄)"
+		},
 		"media/gyazo": {
 		},
 		"icon/rotate": {
