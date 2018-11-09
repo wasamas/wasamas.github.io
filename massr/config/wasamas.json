@@ -10,6 +10,9 @@
 			"delete": "owner",
 			"volatile": true
 		},
+		"notify/information": {
+			"message": "忘年会は12/09！"
+		},
 		"media/gyazo": {
 		},
 		"icon/rotate": {
