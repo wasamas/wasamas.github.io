@@ -5,8 +5,10 @@
 			"delete": "owner",
 			"volatile": true
 		},
-		"notify/information": {
-			"message": "忘年会は12/09！"
+		"notify/like party": {
+			"message": "12/09忘年会参加者→",
+			"delete": "owner",
+			"volatile": true
 		},
 		"media/gyazo": {
 		},
