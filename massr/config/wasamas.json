@@ -6,7 +6,7 @@
 			"volatile": true
 		},
 		"notify/like party": {
-			"message": "12/09忘年会参加者→",
+			"label": "12/09忘年会参加者→",
 			"delete": "owner",
 			"volatile": true
 		},
