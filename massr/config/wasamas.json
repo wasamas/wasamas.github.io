@@ -10,6 +10,11 @@
 			"delete": "owner",
 			"volatile": true
 		},
+		"notify/like ticket": {
+			"label": "チケットヨシ！",
+			"delete": "owner",
+			"volatile": true
+		},
 		"media/gyazo": {
 		},
 		"icon/rotate": {
