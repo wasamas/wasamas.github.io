@@ -7,7 +7,7 @@
 		},
 		"notify/like party": {
 			"label": "12/09忘年会参加者→",
-			"delete": "owner",
+			"delete": "any",
 			"volatile": true
 		},
 		"media/gyazo": {
