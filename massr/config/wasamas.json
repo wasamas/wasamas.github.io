@@ -5,11 +5,6 @@
 			"delete": "owner",
 			"volatile": true
 		},
-		"notify/like party": {
-			"label": "12/09忘年会参加者→",
-			"delete": "any",
-			"volatile": true
-		},
 		"media/gyazo": {
 		},
 		"icon/rotate": {
