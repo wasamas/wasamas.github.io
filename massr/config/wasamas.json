@@ -10,9 +10,6 @@
 			"delete": "owner",
 			"volatile": true
 		},
-		"notify/information party": {
-			"message": "忘年会12/22@<a href='https://warashibe-gyoza.com/' target='_blank'>神田餃子居酒屋WARASHIBE GYOZA</a>"
-		},
 		"media/gyazo": {
 		},
 		"icon/rotate": {
